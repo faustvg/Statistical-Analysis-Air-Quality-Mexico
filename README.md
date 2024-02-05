@@ -1,4 +1,4 @@
-Statistical Analysis project
+#Statistical Analysis - Final project
 
 The aim of the project is to carry out an analysis of Mexico's poor air quality based on the mediation of temperatures and the main pollutants present in the atmosphere (2011-2022 data) and subsequently create a model to forecast the temperature and pollutants in the coming years and propose solutions to this problem.
 
